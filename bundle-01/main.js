@@ -33,14 +33,16 @@ function addIfEven(num) {
 console.log(num + 5)
 
 // ESERCIZIO 3
+//
 // punto e virgola al posto della virgola
+let i = 0;
 function loopToFive() {
     for (let i = 0; i < 5; i++) {
         console.log(i);
     }
    
 }
-
+console.log(i);
 
 // ESERCIZIO 4 (suggerimento: ci sono 7 errori)
 // un punto e virgola in più a riga 43
